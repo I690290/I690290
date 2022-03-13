@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandra Sekhar Battula a Lead Data Engineer @ TSB London
-- 👀 I’m interested in ...
+- 👀 I’m interested in GCP, AWS and Data Platforms
 - 🌱 I’m currently learning AWS, Spark
 - 💞️ I’m looking to collaborate on development, design of Data Platforms.
 - 📫 How to reach me ...
